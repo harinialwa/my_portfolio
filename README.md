@@ -13,14 +13,6 @@ I am a recent **B.Tech** graduate in **Computer Science and Engineering** from V
 - **Database Management:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code, MsOffice
 
-## Projects
-
-### 1. **[AI and Blockchain for Safe Drug Distribution](#)**
-   - Designed an AI-powered and blockchain-driven system to ensure safe pharmaceutical supply chains using Ethereum smart contracts.
-
-### 2. **[Twitter Sentiment Analysis using Python](#)**
-   - Built a Python project to classify tweet sentiments using NLP tools like TextBlob and NLTK.
-
 ## Experience
 
 - **Front-End Developer** at CODETEK Software Solutions (Jun 2024 – Nov 2024)
@@ -35,13 +27,6 @@ I am a recent **B.Tech** graduate in **Computer Science and Engineering** from V
 - **B.Tech in Computer Science and Engineering**, Vignana Bharathi Institute of Technology, CGPA: 8.7/10.0 (Oct 2021 - Jun 2024)
 - **Diploma in Computer Engineering**, Arjun College of Technology and Science, CGPA: 8.9/10.0 (Aug 2018 - Mar 2021)
 - **10th Grade**, SSVM High School, CGPA: 9.2/10.0 (Apr 2018)
-
-## Certifications
-
-- **AI Fundamentals** from IBM Skill Build
-- **Cloud Practitioner Essentials** from AWS
-- **Data Analytics Essentials** from CISCO
-- **Salesforce Developer Intern** from SMART INTERNZ
 
 ## Contact
 
